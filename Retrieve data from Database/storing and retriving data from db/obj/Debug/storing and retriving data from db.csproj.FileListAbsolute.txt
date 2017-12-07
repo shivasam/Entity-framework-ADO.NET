@@ -1,0 +1,12 @@
+c:\users\shiva\onedrive\documents\visual studio 2017\Projects\storing and retriving data from db\storing and retriving data from db\bin\Debug\storing and retriving data from db.exe.config
+c:\users\shiva\onedrive\documents\visual studio 2017\Projects\storing and retriving data from db\storing and retriving data from db\bin\Debug\storing and retriving data from db.exe
+c:\users\shiva\onedrive\documents\visual studio 2017\Projects\storing and retriving data from db\storing and retriving data from db\bin\Debug\storing and retriving data from db.pdb
+c:\users\shiva\onedrive\documents\visual studio 2017\Projects\storing and retriving data from db\storing and retriving data from db\obj\Debug\storing and retriving data from db.csprojResolveAssemblyReference.cache
+c:\users\shiva\onedrive\documents\visual studio 2017\Projects\storing and retriving data from db\storing and retriving data from db\obj\Debug\storing_and_retriving_data_from_db.Form1.resources
+c:\users\shiva\onedrive\documents\visual studio 2017\Projects\storing and retriving data from db\storing and retriving data from db\obj\Debug\storing_and_retriving_data_from_db.Properties.Resources.resources
+c:\users\shiva\onedrive\documents\visual studio 2017\Projects\storing and retriving data from db\storing and retriving data from db\obj\Debug\storing and retriving data from db.csproj.GenerateResource.Cache
+c:\users\shiva\onedrive\documents\visual studio 2017\Projects\storing and retriving data from db\storing and retriving data from db\obj\Debug\storing and retriving data from db.exe
+c:\users\shiva\onedrive\documents\visual studio 2017\Projects\storing and retriving data from db\storing and retriving data from db\obj\Debug\storing and retriving data from db.pdb
+C:\Users\shiva\OneDrive\Documents\Visual Studio 2017\Projects\storing and retriving data from db\storing and retriving data from db\obj\Debug\storing_and_retriving_data_from_db.Form2.resources
+C:\Users\shiva\OneDrive\Documents\Visual Studio 2017\Projects\storing and retriving data from db\storing and retriving data from db\obj\Debug\storing_and_retriving_data_from_db.Form3.resources
+C:\Users\shiva\OneDrive\Documents\Visual Studio 2017\Projects\storing and retriving data from db\storing and retriving data from db\obj\Debug\storing_and_retriving_data_from_db.Form4.resources

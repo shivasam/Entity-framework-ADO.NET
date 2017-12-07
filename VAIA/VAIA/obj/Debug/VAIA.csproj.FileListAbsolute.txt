@@ -1,0 +1,10 @@
+c:\users\shiva\onedrive\documents\visual studio 2017\Projects\VAIA\VAIA\bin\Debug\VAIA.exe.config
+c:\users\shiva\onedrive\documents\visual studio 2017\Projects\VAIA\VAIA\bin\Debug\VAIA.exe
+c:\users\shiva\onedrive\documents\visual studio 2017\Projects\VAIA\VAIA\bin\Debug\VAIA.pdb
+c:\users\shiva\onedrive\documents\visual studio 2017\Projects\VAIA\VAIA\obj\Debug\VAIA.csprojResolveAssemblyReference.cache
+c:\users\shiva\onedrive\documents\visual studio 2017\Projects\VAIA\VAIA\obj\Debug\VAIA.Form1.resources
+c:\users\shiva\onedrive\documents\visual studio 2017\Projects\VAIA\VAIA\obj\Debug\VAIA.Properties.Resources.resources
+c:\users\shiva\onedrive\documents\visual studio 2017\Projects\VAIA\VAIA\obj\Debug\VAIA.csproj.GenerateResource.Cache
+c:\users\shiva\onedrive\documents\visual studio 2017\Projects\VAIA\VAIA\obj\Debug\VAIA.exe
+c:\users\shiva\onedrive\documents\visual studio 2017\Projects\VAIA\VAIA\obj\Debug\VAIA.pdb
+c:\users\shiva\onedrive\documents\visual studio 2017\Projects\VAIA\VAIA\obj\Debug\VAIA.Form2.resources

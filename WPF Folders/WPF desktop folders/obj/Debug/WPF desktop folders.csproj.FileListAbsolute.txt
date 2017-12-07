@@ -1,0 +1,14 @@
+c:\users\shiva\onedrive\documents\visual studio 2017\Projects\WPF desktop folders\WPF desktop folders\bin\Debug\WPF desktop folders.exe.config
+c:\users\shiva\onedrive\documents\visual studio 2017\Projects\WPF desktop folders\WPF desktop folders\bin\Debug\WPF desktop folders.exe
+c:\users\shiva\onedrive\documents\visual studio 2017\Projects\WPF desktop folders\WPF desktop folders\bin\Debug\WPF desktop folders.pdb
+c:\users\shiva\onedrive\documents\visual studio 2017\Projects\WPF desktop folders\WPF desktop folders\obj\Debug\WPF desktop folders.csprojResolveAssemblyReference.cache
+c:\users\shiva\onedrive\documents\visual studio 2017\Projects\WPF desktop folders\WPF desktop folders\obj\Debug\MainWindow.g.cs
+c:\users\shiva\onedrive\documents\visual studio 2017\Projects\WPF desktop folders\WPF desktop folders\obj\Debug\App.g.cs
+c:\users\shiva\onedrive\documents\visual studio 2017\Projects\WPF desktop folders\WPF desktop folders\obj\Debug\WPF desktop folders_MarkupCompile.cache
+c:\users\shiva\onedrive\documents\visual studio 2017\Projects\WPF desktop folders\WPF desktop folders\obj\Debug\WPF desktop folders_MarkupCompile.lref
+c:\users\shiva\onedrive\documents\visual studio 2017\Projects\WPF desktop folders\WPF desktop folders\obj\Debug\MainWindow.baml
+c:\users\shiva\onedrive\documents\visual studio 2017\Projects\WPF desktop folders\WPF desktop folders\obj\Debug\WPF desktop folders.g.resources
+c:\users\shiva\onedrive\documents\visual studio 2017\Projects\WPF desktop folders\WPF desktop folders\obj\Debug\WPF_desktop_folders.Properties.Resources.resources
+c:\users\shiva\onedrive\documents\visual studio 2017\Projects\WPF desktop folders\WPF desktop folders\obj\Debug\WPF desktop folders.csproj.GenerateResource.Cache
+c:\users\shiva\onedrive\documents\visual studio 2017\Projects\WPF desktop folders\WPF desktop folders\obj\Debug\WPF desktop folders.exe
+c:\users\shiva\onedrive\documents\visual studio 2017\Projects\WPF desktop folders\WPF desktop folders\obj\Debug\WPF desktop folders.pdb

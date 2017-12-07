@@ -1,0 +1,12 @@
+﻿<Window x:Class="Form_WPF_.Imagefade"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Form_WPF_"
+        mc:Ignorable="d"
+        Title="Imagefade" Height="300" Width="300">
+    <Grid>
+        <Image Source="image/download.jpg" Width="100" Margin="40,-20,153.6,20.4" MouseLeave="Image_MouseLeave" MouseEnter="Image_MouseEnter"/>
+    </Grid>
+</Window>
